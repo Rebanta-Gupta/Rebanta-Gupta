@@ -19,15 +19,31 @@ I’m a developer enthusiastic about building interactive games, simulations, an
 ---
 
 ## 🛠️ Languages & Technologies
-*   **Languages**: JavaScript, Python, Java
-*   **Libraries**: p5.js, p5.play, Matter.js, SciPy, Pandas, NumPy, Matplotlib, Streamlit
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Libraries / Tools
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
+![p5.play](https://img.shields.io/badge/p5.play-2C2C2C?style=for-the-badge&logo=github&logoColor=white)
+![Matter.js](https://img.shields.io/badge/Matter.js-4B5563?style=for-the-badge&logo=javascript&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Rebanta-Gupta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Rebanta-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebanta-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebanta-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rebanta-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rebanta-Gupta&theme=dark&hide_border=false" height="165" />
+</div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Rebanta-Gupta&icon=0&color=12)](https://visitcount.itsvg.in)
