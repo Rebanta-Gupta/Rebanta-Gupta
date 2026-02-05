@@ -51,10 +51,11 @@ I'm a developer passionate about building interactive games, simulations, and da
 ---
 
 # 📊 GitHub Stats:
+<!-- GitHub Profile Summary Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebanta-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rebanta-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rebanta-Gupta&theme=dark&hide_border=false" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rebanta-Gupta&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rebanta-Gupta&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rebanta-Gupta&theme=github_dark" />
 </div>
 
 ---
