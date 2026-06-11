@@ -74,7 +74,7 @@ projects:
     category: Software Engineering
     tech: [Java]
     visible: true
-
+    
 # Category emoji map — edit freely
 category_icons:
   "Developer Tooling (CLI)": "🧰"
