@@ -2,7 +2,6 @@
 
 I'm a developer passionate about building **interactive games, simulations, and data analysis tools**. I love exploring creative coding with JavaScript, computational physics with MATLAB, and solving problems with Java and Python — building things that bridge logic and interactivity.
 
-- 📫 **Email:** guptarebanta816@gmail.com
 - 💼 **LinkedIn:** [in/Rebanta-Gupta](https://www.linkedin.com/in/Rebanta-Gupta/)
 - 🌐 **Portfolio:** [rebanta-gupta.vercel.app](https://rebanta-gupta.vercel.app/)
 
